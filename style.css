@@ -1,0 +1,128 @@
+  
+      .t-body{
+        padding-bottom: 80px;
+        background-color: #F3F3F3;
+        background-image: url('http://cdn.mcauto-images-production.sendgrid.net/b366264e0f11c7c3/3e11d951-49de-4cac-a46b-a826fa09d261/1800x2400.png');
+        padding-left: 60px;
+        padding-right: 60px;
+      }
+      .msg-2208995296688136042{
+          background-color: #F3F3F3 !important;
+          
+          background-image: url('http://cdn.mcauto-images-production.sendgrid.net/b366264e0f11c7c3/3e11d951-49de-4cac-a46b-a826fa09d261/1800x2400.png')  !important;
+          }
+      header{
+        margin: 60px 0px 0px 60px;
+        max-width: 610px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align : center;
+      }
+      .innerbox{
+        background-color: #FFFFFF;
+        margin-top: 23px;
+        padding: 30px;
+        max-width: 550px;
+        margin-left: auto;
+        margin-right: auto;        
+      }
+      #heading{
+        font-family: URW DIN;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 20px;
+        font-weight: bold;
+        margin-bottom: 0px;
+      }
+      p{
+        font-family: URW DIN;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 18px;
+        color: #495A5A;
+        /* word-break: break-all; */
+      }
+      #tagline{
+        text-align: center;
+        margin: 26px 0px 30px 0px;
+        font-family: Futura Std;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 14px;
+        line-height: 14px;
+        letter-spacing: 4px;
+        text-transform: uppercase;
+        color: #495A5A;
+      }
+      #button{
+        width: 225px;
+        height: 36px;
+        margin-bottom: 75px;
+        background: #504294;
+        background-blend-mode: multiply;
+        mix-blend-mode: normal;
+        font-family: URW DIN;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 10px;
+        line-height: 14px;
+        letter-spacing: 4px;
+        text-transform: uppercase;
+        cursor: pointer;
+        color: #65D2D2;
+      }
+      footer{
+        padding: 80px 0px 40px 0px;
+
+      }
+      #icons{
+        float: right;
+        margin-right: 20px;
+        margin-top: 7px;
+      }
+      #icon-img{
+        height: 20px;
+        width: 60px;
+        object-fit: contain;
+      }
+      #media-img{
+        height: 20px;
+        width: 20px;
+        object-fit: contain;
+        margin-left: 10px;
+        cursor: pointer;
+      }
+      #button-img{
+        height: 10px;
+        width: 30px;
+        object-fit: contain;
+        cursor: pointer;
+      }
+      a{
+        text-decoration: none;
+      }
+      @media only screen and (max-width: 800px) {
+        #tagline {
+        font-size: 15px;
+        }
+      }
+      @media only screen and (max-width: 600px) {
+        #tagline {
+        font-size: 12px;
+        }
+      }
+      @media only screen and (max-width: 540px) {
+        #tagline {
+        font-size: 11px;
+        }
+      }
+      @media only screen and (max-width: 480px) {
+        body{
+          padding-left: 15px;
+          padding-right: 15px;
+        }
+      }
+
+    
